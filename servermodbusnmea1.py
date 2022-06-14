@@ -10,7 +10,7 @@ import array as arr
 username 	= ""
 password 	= ""
 hostname 	= "MQTT server address"
-port 	  	= <MQTT port>
+port 	  	= 1883
 
 #topic
 topic1 = "220518491100001/ModBus"
